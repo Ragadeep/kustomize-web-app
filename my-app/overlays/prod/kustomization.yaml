@@ -1,0 +1,11 @@
+resources:
+  - ../../base
+  - ingress.yaml
+namespace: prod
+namePrefix: prod-
+labels:
+  - pairs:
+      app: my-app
+      prod: "true"
+patches:
+  - path: patch-deployment.yaml

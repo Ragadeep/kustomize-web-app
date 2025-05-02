@@ -1,0 +1,11 @@
+resources:
+  - ../../base
+namespace: dev
+namePrefix: dev-
+labels:
+  - pairs:
+      app: my-app
+      debug: "true"
+patches:
+  - path: patch-deployment.yaml
+  - path: patch-service.yaml
