@@ -193,6 +193,10 @@ During the project, I encountered and resolved several issues:
 
 This repository is a personal project for demonstrating Kubernetes Kustomize skills and is not open to contributions or pull requests. However, feel free to fork the repository for your own use or reach out with feedback via [LinkedIn](https://www.linkedin.com/in/ragadeep-pola)!
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](my-app/LICENSE) file for details.
+
 ## Contact
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ragadeep-pola) for questions, feedback, or to discuss Kubernetes and DevOps!
